@@ -1,5 +1,5 @@
 {
-  "name": "cmd-line-parser",
+  "name": "@iamthe-Wraith/cmd-line-parser",
   "version": "1.0.0",
   "description": "a command line parser to be used with a CLI.",
   "main": "index.js",
@@ -8,10 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamthe-Wraith/cmd-line-parser.git"
-  },
-  "publishConfig": {
-    "registry": "git://github.com/iamthe-Wraith/cmd-line-parser.git"
+    "url": "git://github.com/iamthe-Wraith/cmd-line-parser.git"
   },
   "keywords": [],
   "author": "iamthe-Wraith",
